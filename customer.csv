@@ -1,0 +1,51 @@
+cutomer_id,name,email,country
+1,John Doe,john.doe@example.com,Australia
+2,Jane Smith,jane.smith@example.com,United States
+3,Michael Brown,michael.brown@example.com,Canada
+4,Emily Davis,emily.davis@example.com,United Kingdom
+5,William Wilson,william.wilson@example.com,New Zealand
+6,Sophia Taylor,sophia.taylor@example.com,India
+7,James Anderson,james.anderson@example.com,Germany
+8,Olivia Moore,olivia.moore@example.com,France
+9,Liam Thomas,liam.thomas@example.com,Brazil
+10,Emma White,emma.white@example.com,Japan
+11,Noah Harris,noah.harris@example.com,Italy
+12,Ava Martin,ava.martin@example.com,China
+13,Ethan Garcia,ethan.garcia@example.com,Mexico
+14,Mia Clark,mia.clark@example.com,South Korea
+15,Mason Martinez,mason.martinez@example.com,South Africa
+16,Isabella Thomas,isabella.thomas@example.com,Spain
+17,Lucas Walker,lucas.walker@example.com,Russia
+18,Amelia Brown,amelia.brown@example.com,Netherlands
+19,Henry Johnson,henry.johnson@example.com,Sweden
+20,Charlotte Miller,charlotte.miller@example.com,Finland
+21,Alexander Wilson,alexander.wilson@example.com,Ireland
+22,Mia Lewis,mia.lewis@example.com,Norway
+23,Benjamin Taylor,benjamin.taylor@example.com,Switzerland
+24,Ella Robinson,ella.robinson@example.com,Denmark
+25,Daniel Jackson,daniel.jackson@example.com,Portugal
+26,Harper King,harper.king@example.com,Austria
+27,Nathan Harris,nathan.harris@example.com,Belgium
+28,Lily Wright,lily.wright@example.com,Czech Republic
+29,Jackson Lee,jackson.lee@example.com,Hungary
+30,Chloe Green,chloe.green@example.com,Poland
+31,Joshua Hall,joshua.hall@example.com,Slovakia
+32,Scarlett Young,scarlett.young@example.com,Lithuania
+33,Ryan Carter,ryan.carter@example.com,Slovenia
+34,Grace Adams,grace.adams@example.com,Greece
+35,Caleb Mitchell,caleb.mitchell@example.com,Turkey
+36,Zoey Bennett,zoey.bennett@example.com,Israel
+37,Gabriel Collins,gabriel.collins@example.com,Saudi Arabia
+38,Hannah Foster,hannah.foster@example.com,UAE
+39,Isaac Hughes,isaac.hughes@example.com,Kuwait
+40,Lily Morgan,lily.morgan@example.com,Qatar
+41,Samuel Evans,samuel.evans@example.com,Malaysia
+42,Eleanor Ward,eleanor.ward@example.com,Singapore
+43,Leo Ramirez,leo.ramirez@example.com,Philippines
+44,Violet Phillips,violet.phillips@example.com,Indonesia
+45,Julian Turner,julian.turner@example.com,Thailand
+46,Stella Morris,stella.morris@example.com,Vietnam
+47,Sebastian Parker,sebastian.parker@example.com,Pakistan
+48,Zoe Simmons,zoe.simmons@example.com,Sri Lanka
+49,Christian Stewart,christian.stewart@example.com,Bangladesh
+50,Bella Brooks,bella.brooks@example.com,
